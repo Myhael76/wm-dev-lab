@@ -1,2 +1,3 @@
-# wm-dev-lab
-Webmethods Development Laboratory
+# WebMethods Development Laboratory
+
+Collection of personal spikes, trials and examples
