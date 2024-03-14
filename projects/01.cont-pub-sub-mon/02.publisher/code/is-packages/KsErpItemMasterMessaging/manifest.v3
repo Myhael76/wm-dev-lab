@@ -14,4 +14,7 @@
   <null name="description"/>
   <null name="created_date"/>
   <null name="extendedProperties"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="KSCanonicalMessages">*</value>
+  </record>
 </Values>
