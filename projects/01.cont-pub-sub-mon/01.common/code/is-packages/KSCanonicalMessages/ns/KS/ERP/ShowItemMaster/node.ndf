@@ -14,7 +14,7 @@
     <value name="nillable">true</value>
     <value name="form_qualified">false</value>
     <value name="is_global">false</value>
-    <number name="nanostamp" type="Long">2922600463400</number>
+    <number name="nanostamp" type="Long">3353262464893</number>
     <array name="rec_fields" type="record" depth="1">
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
@@ -60,7 +60,7 @@
       </record>
     </array>
     <record name="eventDescription" javaclass="com.wm.util.Values">
-      <value name="brokerEventTypeName">wm::offline::KS::ERP::ShowItemMaster</value>
+      <value name="brokerEventTypeName">wm::is::KS::ERP::ShowItemMaster</value>
       <value name="timeToLive">0</value>
       <value name="storageType">guaranteed</value>
       <value name="clientValidation">true</value>
